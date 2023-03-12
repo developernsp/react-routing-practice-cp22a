@@ -1,0 +1,16 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+  width: 100%;
+}
+.about-cmpnt {
+  font-size: 80px;
+  color: #6d396b;
+  margin-top: 10px;
+}
+.about-img {
+  width: 220px;
+}
